@@ -21,10 +21,10 @@ const JobDetails = () => {
 
             <div className="md:grid gap-4 md:grid-cols-4">
                 <div className="border md:col-span-3">
-
+                    <h2 className="text-4xl">Details Coming Hare...</h2>
                 </div>
                 <div className="border ">
-
+                    <button className="btn btn-primary text-center">Add Card</button>
                 </div>
 
             </div>
