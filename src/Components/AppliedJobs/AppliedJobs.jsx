@@ -5,7 +5,7 @@ const AppliedJobs = () => {
     const appliedJob = useLoaderData();
     console.log(appliedJob)
     return (
-        <div>
+        <div className="w-[90%] max-w-[1440px] mx-auto mt-[50px]">
             <h2>Applied Jobs.</h2>
             <div>
                 {
